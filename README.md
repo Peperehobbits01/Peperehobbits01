@@ -6,7 +6,7 @@ Hi, I am Peperehobbits01! A small developer that likes to learn more, and that t
 
 # My skills right now and the ones I am learning
 
-## The ones I know :
+## The ones I have :
 <p align="left"><a target="_blank" href=""><img height="30" src="./Assets/javascript-logo.png" alt=""></a><img height="30" src="./Assets/Node.js-Logo.png" alt=""></a><img height="30" src="./Assets/visual-studio-code-logo.png" alt=""><img height="30" src="./Assets/mysql-logo.png" alt=""><img height="30" src="./Assets/debian-logo.png" alt=""></p>
 
 ## The ones I am learning :
